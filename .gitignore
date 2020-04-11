@@ -1,0 +1,15 @@
+.DS_Store
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Renviron
+.Rproj.user/
+*.swp
+*.bak
+*.tmp
+*.png
+data/*
+out/*
+!data/make_text_only.sh
+!data/README.md
